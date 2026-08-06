@@ -61,14 +61,6 @@ Heart-Disease-Prediction/
 └── README.md
 ```
 
-## 🚀 How to Run
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/Heart-Disease-Prediction.git
-```
-
 2. Install dependencies
 
 ```bash
