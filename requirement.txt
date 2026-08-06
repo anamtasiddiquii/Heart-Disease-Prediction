@@ -1,4 +1,8 @@
-pandas
+streamlit
+numpy
+scikit-learn
+pickle-mixin
+Kaggle
 matplotlib
 seaborn
-jupyter notebook
+jupyter/google colab
